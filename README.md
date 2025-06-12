@@ -1,4 +1,4 @@
-# 🧪 Large File Generator in Python
+#  Large File Generator in Python
 
 This Python script helps you generate large binary files (e.g., multiple GBs) using `os.urandom`. It's a handy tool for testing disk performance, network transfer speeds, backup systems, and more.
 
