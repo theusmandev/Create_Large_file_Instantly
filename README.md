@@ -73,5 +73,5 @@ Generating large files manually can be time-consuming or inefficient. This scrip
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/large-file-generator.git
+git clone https://github.com/theusmandevlarge-file-generator.git
 cd large-file-generator
